@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: smart-module-fastapi
+Version: 0.1.0
+Summary: FastAPI submodule for Smart-module
+Requires-Python: >=3.10
+Requires-Dist: fastapi<1.0,>=0.110
+Requires-Dist: uvicorn[standard]<1.0,>=0.27

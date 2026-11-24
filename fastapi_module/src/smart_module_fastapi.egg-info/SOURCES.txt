@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/smart_module_api/__init__.py
+src/smart_module_api/main.py
+src/smart_module_fastapi.egg-info/PKG-INFO
+src/smart_module_fastapi.egg-info/SOURCES.txt
+src/smart_module_fastapi.egg-info/dependency_links.txt
+src/smart_module_fastapi.egg-info/requires.txt
+src/smart_module_fastapi.egg-info/top_level.txt
